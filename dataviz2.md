@@ -1,4 +1,4 @@
-![Government Debt Bar Chart](https://raw.githubusercontent.com/Aagam2020/Shahportfolio/main/export-2024-11-02T14_48_44.590Z.png)
+![Government Debt Chart](https://raw.githubusercontent.com/Aagam2020/Shahportfolio/main/export-2024-11-02T14_48_44.590Z.png)
 
 <div class='tableauPlaceholder' id='viz1730560702155' style='position: relative'>
     <noscript>
