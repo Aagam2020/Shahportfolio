@@ -13,6 +13,22 @@ This visualization is particularly relevant as it allows us to see the comparati
 ### Sketch of the Solution (Step Three)
 
 ![Sketch of Improved Data Visualization](WhatsApp%20Image%202024-11-09%20at%209.45.49%20PM.jpeg)
+
+## List of Questions Asked
+
+1. **"What do you think this chart is showing? Can you summarize it in your own words?"**
+
+2. **"Can you tell me what each of the lines represents? Is it clear which AI tool each line corresponds to?"**
+
+3. **"What do you think the labeled points like 'P1,' 'P2,' and 'P3' mean? Do these annotations help you understand the chart better?"**
+
+4. **"Do you understand what the 'Peak Popularity' line at the top signifies? Does it add clarity to the data?"**
+
+5. **"Do you understand what the average chart in the bottom left corner means?"**
+
+6. **"Is there anything about this chart that you find confusing or would change to make it easier to understand?"**
+
+---
 ## Feedback Summary from Visualization Interviews
 
 ### Participant Feedback
