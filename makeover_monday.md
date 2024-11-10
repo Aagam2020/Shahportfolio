@@ -35,31 +35,31 @@ This visualization is particularly relevant as it allows us to see the comparati
 
 **Student, mid 20’s**
 
-**Question 1**: "The chart shows the popularity of different AI tools over time based on search interest."
-
-**Question 2**: "I can see which line represents which tool from the legend, but the colors are faint in this sketch."
-
-**Question 3**: "The labeled points like P1, P2, and P3 seem to mark important events, but the labels could be more detailed to explain why those events are significant."
-
-**Question 4**: "The 'Peak Popularity' line at the top indicates the maximum interest level, and it does help show which lines are closest to peak popularity."
-
-**Question 5**: "I understand the average chart in the bottom left corner shows the average popularity of each tool over the time period."
-
-**Question 6**: "The legend could be clearer, maybe with stronger colors. The annotation labels could also explain the events a bit more."
+  **Question 1**: "The chart shows the popularity of different AI tools over time based on search interest."
+  
+  **Question 2**: "I can see which line represents which tool from the legend, but the colors are faint in this sketch."
+  
+  **Question 3**: "The labeled points like P1, P2, and P3 seem to mark important events, but the labels could be more detailed to explain why those events are significant."
+  
+  **Question 4**: "The 'Peak Popularity' line at the top indicates the maximum interest level, and it does help show which lines are closest to peak popularity."
+  
+  **Question 5**: "I understand the average chart in the bottom left corner shows the average popularity of each tool over the time period."
+  
+  **Question 6**: "The legend could be clearer, maybe with stronger colors. The annotation labels could also explain the events a bit more."
 
 **Student, mid 20’s**
 
-**Question 1**: "It seems to track the rise and fall of interest for each tool, highlighting some key events."
-
-**Question 2**: "It’s mostly clear, though maybe adding stronger colors or line patterns could make it even clearer."
-
-**Question 3**: "The labeled points are helpful, especially with explanations like 'DALL-E Launch' and 'Midjourney free release,' but more details would be useful."
-
-**Question 4**: "The 'Peak Popularity' line is helpful, though it might be good to mention that it represents 100 as the highest relative interest."
-
-**Question 5**: "The average chart in the bottom left corner is clear and shows overall popularity, which is helpful."
-
-**Question 6**: "I’d suggest moving the average values to a more central location, maybe at the top, and using slightly thicker lines."
+  **Question 1**: "It seems to track the rise and fall of interest for each tool, highlighting some key events."
+  
+  **Question 2**: "It’s mostly clear, though maybe adding stronger colors or line patterns could make it even clearer."
+  
+  **Question 3**: "The labeled points are helpful, especially with explanations like 'DALL-E Launch' and 'Midjourney free release,' but more details would be useful."
+  
+  **Question 4**: "The 'Peak Popularity' line is helpful, though it might be good to mention that it represents 100 as the highest relative interest."
+  
+  **Question 5**: "The average chart in the bottom left corner is clear and shows overall popularity, which is helpful."
+  
+  **Question 6**: "I’d suggest moving the average values to a more central location, maybe at the top, and using slightly thicker lines."
 
 ---
 
