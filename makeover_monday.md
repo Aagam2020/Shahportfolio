@@ -9,6 +9,10 @@ I chose this data visualization from Google Trends because it highlights the gro
 This visualization is particularly relevant as it allows us to see the comparative interest in these tools over time, showcasing trends in user engagement and public curiosity. The information is useful for understanding which platforms are gaining traction and could potentially inform decisions in fields ranging from marketing to AI research. The visualization is publicly accessible, making it a great choice for a deeper analysis and redesign as part of the Makeover Monday project.
 
 **P.S. I am only working on the first data viz after clicking on the link which redirects you to the Google Trends page.**
+
+### Sketch of the Solution (Step Three)
+
+![Sketch of Improved Data Visualization](WhatsApp%20Image%202024-11-09%20at%209.45.49%20PM.jpeg)
 ## Feedback Summary from Visualization Interviews
 
 ### Participant Feedback
