@@ -80,7 +80,7 @@ From the feedback, several patterns and suggestions emerged:
 
 These changes aim to improve the chart's clarity, context, and usability based on user feedback.
 
-
+## Redesigned Data Visualization
 <div class="tableauPlaceholder" id="viz1731342746315" style="position: relative;">
     <noscript>
         <a href="#">
@@ -113,4 +113,30 @@ These changes aim to improve the chart's clarity, context, and usability based o
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+# Tracking AI Tool Popularity - Makeover Monday Project
+
+## Description and Reason for Selection
+I chose to analyze and redesign a data visualization from Google Trends that tracks the popularity of AI image generation tools—Midjourney, Stable Diffusion, and DALL-E—over the past two years. This visualization is relevant for understanding trends in digital art and AI, highlighting which tools have gained the most public attention over time. It could inform strategic decisions for professionals in marketing, AI research, and content creation. Since this information is publicly accessible, it is an ideal choice for a Makeover Monday project.
+
+## Initial Critique and Redesign Considerations
+When critiquing the original visualization, I identified several areas for improvement. First, the legend clarity and line colors were somewhat faint, making it hard to distinguish between tools. Additionally, the chart included labeled points marking events like tool launches, but the significance of these points wasn’t clear. Another element, the peak popularity line, indicated the maximum popularity at 100 but lacked a label to explain its meaning. Finally, there was an additional average popularity chart, but it was positioned in a less prominent area. These observations informed my initial redesign goals: to enhance clarity, add context to event markers, improve color contrast, and make the average values and peak line more informative.
+
+## Sketching the Solution
+I created a sketch of an improved version of the visualization, focusing on stronger colors for the lines and a more detailed legend. I also decided to add brief explanations for key events and reposition the average values to be more prominent. This sketch served as a blueprint for the feedback collection phase.
+
+## Feedback Collection and Insights
+I interviewed two participants (both students in their mid-20s) to gather feedback on the redesigned sketch.
+
+Both participants felt that stronger colors would make the lines and legend easier to identify. One suggested using line patterns as an alternative. They appreciated the labeled points marking key events but wanted a bit more explanation about the significance of these events. The participants understood the peak line's purpose but felt that a clearer label (such as “Peak Popularity” at the top) would add clarity. Finally, they found the average section helpful but recommended moving it to a more central or prominent location, possibly at the top of the chart.
+
+## Key Takeaways from Feedback
+The feedback highlighted several design patterns and priorities. It was recommended to use stronger, more contrasting colors or line patterns for easier identification. Adding more context to the event annotations would help explain each event’s significance. Placing the average values in a more visible area would improve accessibility, and labeling the peak popularity line explicitly would clarify that it represents the maximum interest level.
+
+## Design Changes Based on Feedback
+Based on the feedback, I implemented the following changes. I chose more vivid colors (purple for DALL-E, green for MidJourney, red for Stable Diffusion) and made the lines slightly thicker to improve visibility. Short descriptions were added to each event marker, such as “DALL-E Launch” and “MidJourney no longer free,” to provide context at key points. I moved the average values (8 for MidJourney, 5 for Stable Diffusion, and 5 for DALL-E) to the top of the chart, creating a small legend that shows the average popularity for each tool. Finally, I labeled the 100 line at the top as "Peak Popularity" to clarify its role as the maximum interest level.
+
+## Final Redesign and Rationale
+The redesigned visualization now provides a clear, comparative view of the popularity trends for each tool, with easy-to-read labels, event annotations, and a prominent legend showing average values. I selected a line chart to emphasize the temporal trend and overlaid a peak popularity line to highlight points of maximum interest. These changes aim to make the visualization more accessible and informative, providing viewers with a quick, intuitive understanding of which tools have dominated public interest over time.
+
 
