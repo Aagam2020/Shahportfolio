@@ -114,7 +114,7 @@ These changes aim to improve the chart's clarity, context, and usability based o
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-# Tracking AI Tool Popularity - Makeover Monday Project
+# Summary
 
 ## Description and Reason for Selection
 I chose to analyze and redesign a data visualization from Google Trends that tracks the popularity of AI image generation tools—Midjourney, Stable Diffusion, and DALL-E—over the past two years. This visualization is relevant for understanding trends in digital art and AI, highlighting which tools have gained the most public attention over time. It could inform strategic decisions for professionals in marketing, AI research, and content creation. Since this information is publicly accessible, it is an ideal choice for a Makeover Monday project.
