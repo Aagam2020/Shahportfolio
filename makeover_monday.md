@@ -21,7 +21,7 @@ The redesigned graph illustrates the rise and evolution of user interest in thre
 - **Midjourney** experiences a rise in popularity shortly after it becomes widely available, followed by another peak when it changes its pricing model, reflecting user responses to accessibility and cost.
 - **Stable Diffusion** also has notable peaks after its launch, signaling growing interest as it entered the market.
 
-The "Peak Popularity" line at the top highlights the maximum relative interest level, allowing users to compare these peaks and understand the highest points of engagement. The average section reveals the overall popularity of each tool across the time period, giving viewers a sense of which tool maintained sustained interest.
+The "Peak Popularity" line at the top(after I made changes) highlights the maximum relative interest level, allowing users to compare these peaks and understand the highest points of engagement. The average section reveals the overall popularity of each tool across the time period, giving viewers a sense of which tool maintained sustained interest.
 
 This story reflects a narrative of technological adoption, user curiosity, and how accessibility impacts engagement. It underscores how each tool's journey varies based on factors like availability and pricing, allowing us to see the nuances in user interest across different AI platforms.
 
