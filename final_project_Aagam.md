@@ -54,23 +54,10 @@ The dataset is publicly accessible and has been uploaded to the repository. You 
 
 ## Method and Medium
 
-To complete my final project, I will use **Tableau** for creating interactive data visualizations and **Shorthand** for presenting the findings in an engaging, narrative-driven format.
+To complete my final project, I will use Tableau for creating interactive data visualizations and Shorthand for presenting the findings in an engaging, narrative-driven format.
 
-### Tools and Approach:
-1. **Tableau**:
-   - I will use Tableau to design and develop interactive visualizations such as faceted bar charts, line graphs, and heatmaps. These visualizations will help showcase trends in depression rates across demographics (age, income, education, race-ethnicities, and sex) from 2012 to 2018.
-   - Tableau's interactivity will allow users to explore the data themselves, offering insights in a visually compelling way.
+Tableau will be used to design and develop interactive visualizations such as faceted bar charts, line graphs, and heatmaps. These visualizations will help showcase trends in depression rates across demographics (age, income, education, race-ethnicities, and sex) from 2012 to 2018. Tableau's interactivity will allow users to explore the data themselves, offering insights in a visually compelling way.
 
-2. **Shorthand**:
-   - I will integrate the Tableau visualizations into Shorthand to create an interactive and cohesive digital narrative. Shorthand will allow me to incorporate textual explanations, annotated visualizations, and a logical flow to guide the audience through the project's findings.
-   - This platform will ensure the project is accessible, visually appealing, and engaging for my target audience (policymakers, mental health advocates, and researchers).
+Shorthand will serve as the platform for integrating the Tableau visualizations into a cohesive digital narrative. It will enable the inclusion of textual explanations, annotated visualizations, and a logical flow to guide the audience through the project's findings. This platform ensures the project is accessible, visually appealing, and engaging for my target audience, including policymakers, mental health advocates, and researchers.
 
-### Final Deliverable:
-The final deliverable will be an interactive, stand-alone web-based story hosted online. It will combine:
-- Data visualizations created in Tableau.
-- A storytelling format built in Shorthand.
-- Explanations and insights that provide actionable recommendations based on the data.
-
-This combination of tools ensures the project is both visually impactful and easy to navigate, offering an immersive experience for the audience.
-
-
+The final deliverable will be an interactive, stand-alone web-based story hosted online. It will combine data visualizations created in Tableau with a storytelling format built in Shorthand. The project will include explanations and insights that provide actionable recommendations based on the data. This approach ensures the project is both visually impactful and easy to navigate, offering an immersive experience for the audience.
