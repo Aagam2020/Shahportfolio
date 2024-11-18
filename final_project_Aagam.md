@@ -27,3 +27,28 @@ The climactic reveal will present the most impactful insights, such as identifyi
 ### **Resolution (Actionable Takeaways)**
 
 The resolution will summarize the key takeaways, including which demographics require targeted mental health resources and policy recommendations to address the identified disparities. It will conclude with a call to action for policymakers to invest in mental health programs targeting the most affected groups and for mental health professionals to develop tailored interventions for high-risk populations. The section will close by emphasizing the importance of addressing these disparities to improve mental health outcomes and reduce the societal burden of depression.
+
+## The Data
+
+### Data Source
+The dataset used for this project is titled *"Adult Depression LGHC Indicator 24"* and has been uploaded to the GitHub repository for this project. This dataset spans the years 2012 to 2018 and includes information about depression rates segmented by various demographic factors such as age, income, education, race-ethnicities, and sex. The dataset provides key fields such as "Strata," "Strata Name," and "Frequency," which are used to categorize and quantify depression rates across these demographics.
+
+This data is valuable for identifying patterns and disparities in depression rates and for developing actionable insights for policymakers and mental health advocates.
+
+### Data Usage
+This dataset will be used to:
+1. Analyze trends in depression rates over the years 2012 to 2018.
+2. Compare depression rates across demographic groups (age, income, education, race-ethnicities, and sex).
+3. Identify disparities in depression rates and correlations between demographics and mental health outcomes.
+4. Create visualizations such as faceted bar charts to present trends and insights clearly.
+
+The analysis will address critical questions, including:
+- Which demographic groups are most affected by depression?
+- How do depression rates vary over time and across categories?
+- Are there trends that highlight the need for targeted mental health interventions?
+
+### Data Access
+The dataset is publicly accessible and has been uploaded to the repository. You can access the dataset directly at the following link:
+
+[Adult Depression Dataset (2012–2018)](https://github.com/Aagam2020/Shahportfolio/blob/main/adult-depression-lghc-indicator-24.csv)
+
