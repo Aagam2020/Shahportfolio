@@ -11,6 +11,7 @@ By exploring data segmented by these demographic factors, the project seeks to a
 
 ## Project Structure
 
+The project structure I am following is a Narrative-driven project structure.
 ### **Introduction (Setting the Stage)**
 
 The introduction will provide an overview of adult depression as a growing public health issue from 2012 to 2018. It will highlight the societal and economic impacts of untreated depression and present the dataset, emphasizing its coverage of demographics such as age, income, education, race-ethnicities, and sex. The section will set the stage for the analysis, showing why understanding these disparities is critical. The introduction will conclude with a one-sentence summary: *"Understanding how depression affects different demographics over time can guide targeted interventions and improve mental health outcomes."*
