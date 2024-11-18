@@ -1,4 +1,4 @@
-| [home page](https://aagam2020.github.io/Shahportfolio/) | [test](test) | [critique by design](critique-by-design) | [Assignment 2](dataviz2.md) | [makeover monday](makeover_monday.md)  |[Final Project Part I](final_project_part1.md)
+| [home page](https://aagam2020.github.io/Shahportfolio/) | [test](test) | [critique by design](critique-by-design) | [Assignment 2](dataviz2.md) | [makeover monday](makeover_monday.md)  |[Final Project Part I](final_project_Aagam.md)
 # Shahportfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
