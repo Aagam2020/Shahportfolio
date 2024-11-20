@@ -42,7 +42,7 @@ The analysis concludes with a call to action for stakeholders to address the ide
 
 
 ## The Data
-![image](https://github.com/user-attachments/assets/99bc463c-aa55-4909-b4db-d9c25fabefee)
+![image](https://github.com/user-attachments/assets/c8d48cfe-75ca-4762-aa7b-920c7ab0ebee)
 
 ### Data Source
 
