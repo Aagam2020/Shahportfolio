@@ -90,7 +90,7 @@ The SAMHSA dataset is publicly available and serves as the foundation for this a
 
 To complete my final project, I will use Tableau for creating interactive data visualizations and Shorthand for presenting the findings in an engaging, narrative-driven format.
 
-Tableau will be used to design and develop interactive visualizations such as faceted bar charts, line graphs, and heatmaps. These visualizations will help showcase trends in depression rates across demographics (age, income, education, race-ethnicities, and sex) from 2012 to 2018. Tableau's interactivity will allow users to explore the data themselves, offering insights in a visually compelling way.
+Tableau will be used to design and develop interactive visualizations. These visualizations will help showcase trends in depression rates across demographics. Tableau's interactivity will allow users to explore the data themselves.
 
 Shorthand will serve as the platform for integrating the Tableau visualizations into a cohesive digital narrative. It will enable the inclusion of textual explanations, annotated visualizations, and a logical flow to guide the audience through the project's findings. This platform ensures the project is accessible, visually appealing, and engaging for my target audience, including policymakers, mental health advocates, and researchers.
 
