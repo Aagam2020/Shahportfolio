@@ -7,7 +7,9 @@
 This project analyzes the prevalence of major depressive episodes among U.S. adults in 2021, focusing on key demographic factors such as age, sex, and race/ethnicity. Leveraging the data visualization provided by SAMHSA, the analysis seeks to uncover significant disparities and trends in depression rates across these population groups. The central aim is to answer pivotal questions: Why does the age group of 18-25 report the highest prevalence of depression compared to other age groups? How do sex and racial/ethnic backgrounds influence depression rates? By providing a clear, data-backed narrative, this project aims to empower policymakers, mental health professionals, and advocates with actionable insights to guide interventions and reduce disparities in mental health care access.
 
 ---
+## Project Strucutre
 
+The project structure I am following is a Narrative-Driven project structure.
 ## Introduction (Setting the Stage)
 
 The introduction highlights the growing concern over depression as a public health crisis in 2021, with a focus on how it impacts different demographic groups. The societal and economic costs of untreated depression are immense, ranging from lost productivity to strain on healthcare systems. The SAMHSA dataset reveals striking trends in depression prevalence across sex, age, and race/ethnicity.
