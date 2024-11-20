@@ -74,8 +74,10 @@ These findings are critical for understanding the disparities in mental health o
 
 ### Data Access
 
-The SAMHSA dataset is publicly available and serves as the foundation for this analysis. 
-[2021 Adult Mental health numbers across demographics] (https://github.com/Aagam2020/Shahportfolio/blob/main/2021%20Mental%20health%20adults%20across%20demographics.xlsx)
+The SAMHSA dataset is publicly available and serves as the foundation for this analysis.
+
+[2021 Adult Mental health numbers across demographics] (https://raw.githubusercontent.com/Aagam2020/Shahportfolio/main/2021%20Mental%20health%20adults%20across%20demographics.xlsx)
+
 
 ## Method and Medium
 
