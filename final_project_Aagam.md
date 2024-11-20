@@ -50,26 +50,39 @@ The section concludes by reiterating the importance of addressing these disparit
 ## The Data
 
 ### Data Source
-The dataset used for this project is titled *"Adult Depression LGHC Indicator 24"* and has been uploaded to the GitHub repository for this project. This dataset spans the years 2012 to 2018 and includes information about depression rates segmented by various demographic factors such as age, income, education, race-ethnicities, and sex. The dataset provides key fields such as "Strata," "Strata Name," and "Frequency," which are used to categorize and quantify depression rates across these demographics.
 
-This data is valuable for identifying patterns and disparities in depression rates and for developing actionable insights for policymakers and mental health advocates.
+The dataset used for this project comes from the Substance Abuse and Mental Health Services Administration (SAMHSA), focusing on the prevalence of major depressive episodes among U.S. adults in 2021. This dataset provides critical insights segmented by key demographic factors, including age, sex, and race/ethnicity. The visualized data, as seen in the provided graph, highlights disparities in depression rates across these groups, offering a comprehensive view of the mental health landscape in the U.S.
+
+This data is invaluable for identifying trends, understanding demographic disparities, and providing actionable insights for mental health professionals, policymakers, and advocates.
+
+---
 
 ### Data Usage
-This dataset will be used to:
-1. Analyze trends in depression rates over the years 2012 to 2018.
-2. Compare depression rates across demographic groups (age, income, education, race-ethnicities, and sex).
-3. Identify disparities in depression rates and correlations between demographics and mental health outcomes.
-4. Create visualizations such as faceted bar charts to present trends and insights clearly.
 
-The analysis will address critical questions, including:
-- Which demographic groups are most affected by depression?
-- How do depression rates vary over time and across categories?
-- Are there trends that highlight the need for targeted mental health interventions?
+The SAMHSA dataset underpins the analysis and helps answer key questions about depression prevalence. It will be used to:
+- Analyze depression rates across demographic groups, with a specific focus on age, sex, and race/ethnicity.
+- Identify populations most affected by major depressive episodes, such as young adults aged 18-25, who exhibit the highest prevalence at 18.6%.
+- Explore patterns that emphasize the need for targeted interventions and improved access to mental health resources.
+
+This dataset will drive the visualizations and storytelling in the project, such as bar charts that clearly show disparities across demographics. By breaking down the data, the analysis will provide a better understanding of which groups face the greatest challenges and why these disparities exist.
+
+---
+
+### Key Insights from the Data
+
+The most notable insights from the dataset include:
+- The **18-25 age group** experiences the highest depression prevalence at 18.6%, compared to just 4.5% for adults aged 50 and older.
+- Females report higher rates of depression (10.3%) compared to males (6.2%), highlighting significant gender differences.
+- Among racial/ethnic groups, individuals identifying as AI/AN (11.2%) and those with two or more racial/ethnic identities (13.9%) face disproportionately high rates of depression.
+
+These findings are critical for understanding the disparities in mental health outcomes and informing strategies to address them.
+
+---
 
 ### Data Access
-The dataset is publicly accessible and has been uploaded to the repository. You can access the dataset directly at the following link:
 
-[Adult Depression Dataset (2012–2018)](https://github.com/Aagam2020/Shahportfolio/blob/main/adult-depression-lghc-indicator-24.csv)
+The SAMHSA dataset is publicly available and serves as the foundation for this analysis. It provides the data necessary to explore the prevalence of depression and the disparities highlighted in the graph. Further details and visualizations derived from this dataset are included in this repository to ensure accessibility for stakeholders.
+
 
 ## Method and Medium
 
