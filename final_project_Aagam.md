@@ -68,7 +68,7 @@ The most notable insights from the dataset include:
 - Females report higher rates of depression (10.3%) compared to males (6.2%), highlighting significant gender differences.
 - Among racial/ethnic groups, individuals identifying as AI/AN (11.2%) and those with two or more racial/ethnic identities (13.9%) face disproportionately high rates of depression.
 
-[Depression numbers according to Age Group](https://github.com/Aagam2020/Shahportfolio/blob/main/WhatsApp%20Image%202024-11-20%20at%206.27.12%20AM.jpeg)
+![image](https://github.com/Aagam2020/Shahportfolio/blob/main/WhatsApp%20Image%202024-11-20%20at%206.27.12%20AM.jpeg)
 The 18-25 age group, despite spanning only seven years, accounts for approximately 25% of all individuals experiencing major depressive disorder in 2021. This stark finding highlights the disproportionate burden of depression among young adults compared to other age groups.
 
 These findings are critical for understanding the disparities in mental health outcomes and informing strategies to address them.
