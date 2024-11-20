@@ -59,7 +59,7 @@ The SAMHSA dataset underpins the analysis and helps answer key questions about d
 - Identify populations most affected by major depressive episodes, such as young adults aged 18-25, who exhibit the highest prevalence at 18.6%.
 - Explore patterns that emphasize the need for targeted interventions and improved access to mental health resources.
 
-This dataset will drive the visualizations and storytelling in the project, such as bar charts that clearly show disparities across demographics. By breaking down the data, the analysis will provide a better understanding of which groups face the greatest challenges and why these disparities exist.
+By breaking down the data, the analysis will provide a better understanding of which groups face the greatest challenges and why these disparities exist.
 
 ---
 
