@@ -12,7 +12,7 @@ This project analyzes the prevalence of major depressive episodes among U.S. adu
 The project structure I am following is a Narrative-Driven project structure.
 ## **Setup (Introduction)**
 
-Here is the reality: Depression is a growing public health crisis, with its impact spanning social, economic, and healthcare systems. In 2021, data from SAMHSA revealed significant disparities in depression rates across demographics, underscoring an urgent need to address this issue.
+Depression is a growing public health crisis, with its impact spanning social, economic, and healthcare systems. In 2021, data from SAMHSA revealed significant disparities in depression rates across demographics, underscoring an urgent need to address this issue.
 
 A critical observation is that young adults aged 18-25 experienced the highest prevalence of depression, at **18.6%**. This stands in stark contrast to older adults aged 50+, who showed a rate of just **4.5%**. Additionally:
 - **Females (10.3%)** were more affected than males (**6.2%**).
@@ -22,7 +22,7 @@ A critical observation is that young adults aged 18-25 experienced the highest p
 
 ## **Conflict (Rising Insights)**
 
-Here is the complication: The data highlights alarming inequalities in depression prevalence that disrupts the perception of mental health being universally manageable. The **18-25 age group** emerges as the most vulnerable, facing depression rates more than four times higher than older adults aged 50+. This can be attributed to:
+The data highlights alarming inequalities in depression prevalence that disrupts the perception of mental health being universally manageable. The **18-25 age group** emerges as the most vulnerable, facing depression rates more than four times higher than older adults aged 50+. This can be attributed to:
 - **Life transitions,** such as education, employment, and relationships.
 - **Financial instability** and societal pressures, exacerbated by the influence of social media.
 
@@ -32,7 +32,7 @@ Similarly, gender differences point to a systemic problem where societal pressur
 
 ## **Resolution (Climactic Reveal and Actionable Takeaways)**
 
-Here is the new reality: To combat these disparities, targeted action is required to address the specific needs of the most affected groups. The following solutions are critical:
+To combat these disparities, targeted action is required to address the specific needs of the most affected groups. The following solutions are critical:
 1. **Young Adults (18-25):**  
    Prioritize youth-specific mental health programs, such as on-campus counseling, peer support networks, and digital mental health platforms.
    
