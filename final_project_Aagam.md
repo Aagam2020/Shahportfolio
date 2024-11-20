@@ -32,7 +32,7 @@ Similarly, gender differences point to a systemic problem where societal pressur
 
 ## **Resolution (Climactic Reveal and Actionable Takeaways)**
 
-To combat these disparities, targeted action is required to address the specific needs of the most affected groups. The following solutions are critical:
+To combat these disparities, targeted action is required to address the specific needs of the most affected groups. The following solutions are critical based on my own research:
 1. **Young Adults (18-25):**  
    Prioritize youth-specific mental health programs, such as on-campus counseling, peer support networks, and digital mental health platforms.
    
