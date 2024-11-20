@@ -1,32 +1,51 @@
 [Back to Main Portfolio](README.md)
-# Final Project: Adult Depression Analysis (2012–2018)
+
+# Final Project: Depression Prevalence Among U.S. Adults (2021)
 
 ## High-Level Summary
 
-This project analyzes trends in adult depression from 2012 to 2018, focusing on demographic factors such as age, income, education, race-ethnicities, and sex. The aim is to uncover disparities in depression rates across different population groups and identify patterns that can inform interventions and policy decisions.
-
-By exploring data segmented by these demographic factors, the project seeks to answer critical questions, such as: Which age groups and income levels report the highest rates of depression? Are there significant differences in depression rates between racial or ethnic groups? How do education and sex influence depression prevalence? Through data visualization and storytelling, this project will present a clear narrative to policymakers, mental health professionals, and advocates. The ultimate goal is to provide actionable insights to improve mental health resources and reduce disparities in care.
+This project analyzes the prevalence of major depressive episodes among U.S. adults in 2021, focusing on key demographic factors such as age, sex, and race/ethnicity. Leveraging the data visualization provided by SAMHSA, the analysis seeks to uncover significant disparities and trends in depression rates across these population groups. The central aim is to answer pivotal questions: Why does the age group of 18-25 report the highest prevalence of depression compared to other age groups? How do sex and racial/ethnic backgrounds influence depression rates? By providing a clear, data-backed narrative, this project aims to empower policymakers, mental health professionals, and advocates with actionable insights to guide interventions and reduce disparities in mental health care access.
 
 ---
 
-## Project Structure
+## Introduction (Setting the Stage)
 
-The project structure I am following is a Narrative-driven project structure.
-### **Introduction (Setting the Stage)**
+The introduction highlights the growing concern over depression as a public health crisis in 2021, with a focus on how it impacts different demographic groups. The societal and economic costs of untreated depression are immense, ranging from lost productivity to strain on healthcare systems. The SAMHSA dataset reveals striking trends in depression prevalence across sex, age, and race/ethnicity.
 
-The introduction will provide an overview of adult depression as a growing public health issue from 2012 to 2018. It will highlight the societal and economic impacts of untreated depression and present the dataset, emphasizing its coverage of demographics such as age, income, education, race-ethnicities, and sex. The section will set the stage for the analysis, showing why understanding these disparities is critical. The introduction will conclude with a one-sentence summary: *"Understanding how depression affects different demographics over time can guide targeted interventions and improve mental health outcomes."*
+One critical finding from the dataset is that young adults aged 18-25 experienced the highest rates of depression at 18.6%, compared to just 4.5% among those aged 50 and older. Additionally, females (10.3%) reported significantly higher depression rates compared to males (6.2%). Among racial/ethnic groups, individuals identifying as AI/AN (11.2%) and those with two or more racial/ethnic backgrounds (13.9%) also exhibited elevated rates of depression.
 
-### **Rising Insights (Exploring the Data)**
+This section sets the stage by emphasizing why understanding these disparities is essential for designing targeted mental health interventions. The introduction concludes: "Addressing the disproportionate burden of depression among young adults and other vulnerable groups is crucial for improving overall mental health outcomes and equity."
 
-This section will analyze trends in depression rates over the years 2012 to 2018. It will explore key demographic breakdowns, including age groups, income levels, education levels, race-ethnicities, and sex. The analysis will focus on identifying which age groups experience the highest and lowest rates of depression, how economic disparities correlate with depression prevalence, and how education and sex influence depression rates. Visualizations will include line charts for depression rates over time by age group, bar charts for depression prevalence by income or education, and heatmaps to show regional differences in depression across race-ethnicities.
+---
 
-### **Climactic Reveal (Key Findings)**
+## Rising Insights (Exploring the Data)
 
-The climactic reveal will present the most impactful insights, such as identifying the demographic groups most affected by depression. It will highlight disparities and discuss possible causes, including economic inequities and access to mental health services. The findings may include trends like *"Depression rates were highest among individuals with low income and those identifying as [specific racial-ethnic group]."* This section will also uncover unexpected trends, such as improvements or worsening disparities over time, and provide data-driven insights to emphasize key discoveries.
+The analysis delves deeper into the demographic trends revealed in the visualization. Depression rates are highest among individuals aged 18-25 (18.6%), indicating that young adulthood is a particularly vulnerable life stage. Conversely, the prevalence drops significantly for adults aged 50+ (4.5%), suggesting resilience or other protective factors in older age.
 
-### **Resolution (Actionable Takeaways)**
+Females consistently report higher rates of depression (10.3%) compared to males (6.2%). This may stem from biological, psychological, or societal influences, such as greater societal pressure or underreporting by males.
 
-The resolution will summarize the key takeaways, including which demographics require targeted mental health resources and policy recommendations to address the identified disparities. It will conclude with a call to action for policymakers to invest in mental health programs targeting the most affected groups and for mental health professionals to develop tailored interventions for high-risk populations. The section will close by emphasizing the importance of addressing these disparities to improve mental health outcomes and reduce the societal burden of depression.
+Racial and ethnic disparities are also apparent, with individuals identifying as AI/AN (11.2%) and those of two or more racial/ethnic backgrounds (13.9%) facing disproportionately high rates of depression. These findings point to systemic inequities in access to mental health care and broader social determinants of health.
+
+Visualizations include bar charts showcasing the stark differences in depression prevalence by age, sex, and race/ethnicity. These visuals help identify the most at-risk populations and underline the need for age- and culturally-sensitive interventions.
+
+---
+
+## Climactic Reveal (Key Findings)
+
+The most critical finding is the overwhelming prevalence of depression among individuals aged 18-25. This age group faces unique challenges, including navigating major life transitions, economic uncertainty, and the impact of social media on mental well-being. The disparity compared to other age groups is striking, with rates more than four times higher than those aged 50+.
+
+Other key findings include the pronounced gender gap, with females reporting significantly higher rates, and the elevated prevalence among AI/AN individuals and those of mixed racial/ethnic backgrounds, highlighting the intersectionality of race, mental health, and systemic barriers to care.
+
+These findings underscore the urgent need for targeted mental health programs for young adults, especially those from marginalized racial/ethnic backgrounds. Without intervention, the long-term societal costs of untreated depression among these groups will only escalate.
+
+---
+
+## Resolution (Actionable Takeaways)
+
+The analysis concludes with a call to action for stakeholders to address the identified disparities. Recommendations include developing youth-centric mental health resources such as campus counseling programs, online therapy platforms, and peer support groups. Gender-sensitive approaches should address unique stressors faced by females through community outreach and specialized therapy options. Equity in care must be prioritized through increased funding for culturally competent mental health programs in underserved communities, particularly for AI/AN and mixed-race populations. Public awareness campaigns should also promote understanding of depression’s signs and symptoms to reduce stigma and encourage early intervention.
+
+The section concludes by reiterating the importance of addressing these disparities to improve mental health equity and outcomes. The findings emphasize that tackling depression among the most vulnerable populations, particularly young adults, can lead to significant societal and economic benefits.
+
 
 ## The Data
 
