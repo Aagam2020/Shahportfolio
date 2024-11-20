@@ -14,8 +14,6 @@ The introduction highlights the growing concern over depression as a public heal
 
 One critical finding from the dataset is that young adults aged 18-25 experienced the highest rates of depression at 18.6%, compared to just 4.5% among those aged 50 and older. Additionally, females (10.3%) reported significantly higher depression rates compared to males (6.2%). Among racial/ethnic groups, individuals identifying as AI/AN (11.2%) and those with two or more racial/ethnic backgrounds (13.9%) also exhibited elevated rates of depression.
 
-This section sets the stage by emphasizing why understanding these disparities is essential for designing targeted mental health interventions. The introduction concludes: "Addressing the disproportionate burden of depression among young adults and other vulnerable groups is crucial for improving overall mental health outcomes and equity."
-
 ---
 
 ## Rising Insights (Exploring the Data)
@@ -25,8 +23,6 @@ The analysis delves deeper into the demographic trends revealed in the visualiza
 Females consistently report higher rates of depression (10.3%) compared to males (6.2%). This may stem from biological, psychological, or societal influences, such as greater societal pressure or underreporting by males.
 
 Racial and ethnic disparities are also apparent, with individuals identifying as AI/AN (11.2%) and those of two or more racial/ethnic backgrounds (13.9%) facing disproportionately high rates of depression. These findings point to systemic inequities in access to mental health care and broader social determinants of health.
-
-Visualizations include bar charts showcasing the stark differences in depression prevalence by age, sex, and race/ethnicity. These visuals help identify the most at-risk populations and underline the need for age- and culturally-sensitive interventions.
 
 ---
 
@@ -44,16 +40,13 @@ These findings underscore the urgent need for targeted mental health programs fo
 
 The analysis concludes with a call to action for stakeholders to address the identified disparities. Recommendations include developing youth-centric mental health resources such as campus counseling programs, online therapy platforms, and peer support groups. Gender-sensitive approaches should address unique stressors faced by females through community outreach and specialized therapy options. Equity in care must be prioritized through increased funding for culturally competent mental health programs in underserved communities, particularly for AI/AN and mixed-race populations. Public awareness campaigns should also promote understanding of depression’s signs and symptoms to reduce stigma and encourage early intervention.
 
-The section concludes by reiterating the importance of addressing these disparities to improve mental health equity and outcomes. The findings emphasize that tackling depression among the most vulnerable populations, particularly young adults, can lead to significant societal and economic benefits.
-
 
 ## The Data
+![image](https://github.com/user-attachments/assets/99bc463c-aa55-4909-b4db-d9c25fabefee)
 
 ### Data Source
 
 The dataset used for this project comes from the Substance Abuse and Mental Health Services Administration (SAMHSA), focusing on the prevalence of major depressive episodes among U.S. adults in 2021. This dataset provides critical insights segmented by key demographic factors, including age, sex, and race/ethnicity. The visualized data, as seen in the provided graph, highlights disparities in depression rates across these groups, offering a comprehensive view of the mental health landscape in the U.S.
-
-This data is invaluable for identifying trends, understanding demographic disparities, and providing actionable insights for mental health professionals, policymakers, and advocates.
 
 ---
 
@@ -81,8 +74,7 @@ These findings are critical for understanding the disparities in mental health o
 
 ### Data Access
 
-The SAMHSA dataset is publicly available and serves as the foundation for this analysis. It provides the data necessary to explore the prevalence of depression and the disparities highlighted in the graph. Further details and visualizations derived from this dataset are included in this repository to ensure accessibility for stakeholders.
-
+The SAMHSA dataset is publicly available and serves as the foundation for this analysis. 
 
 ## Method and Medium
 
