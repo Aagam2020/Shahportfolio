@@ -1,100 +1,56 @@
 [Back to Main Portfolio](README.md)
 # User Research and Feedback
 
-This document outlines the process and findings from user interviews conducted as part of the project.
+This document summarizes the process and findings from user interviews conducted as part of the project. The goal of these interviews was to evaluate the clarity, engagement, and overall effectiveness of the project's narrative and visualizations. Feedback collected has informed the design changes planned for the next phase.
 
 ---
 
-## **User Research Protocol**
+## User Research Protocol
 
-### **Target Audience**
-The project is designed for:
-1. **Policymakers**: Decision-makers in public health and mental health policies.
-2. **Mental Health Advocates**: Professionals or volunteers focusing on mental health awareness.
-3. **Researchers and Analysts**: Academics or data experts studying mental health trends.
-4. **General Public**: Educated individuals interested in understanding disparities in mental health.
+The project aims to communicate insights about depression prevalence in the United States, targeting four primary audiences: policymakers, mental health advocates, researchers and analysts, and the general public. These groups were chosen based on their potential to act on the insights provided or their interest in understanding the disparities in mental health.
 
----
+To ensure diverse perspectives, four individuals representing these audiences were interviewed. They included a psychology graduate student (mid-20s), a data analyst (late-20s), a social worker (mid-40s), and a retired teacher (mid-50s). This group provided a broad range of feedback, from technical critiques to content engagement insights.
 
-### **Representative Individuals Interviewed**
-1. **Student, mid-20s**: A psychology graduate student passionate about mental health advocacy.
-2. **Young Professional, late-20s**: A data analyst familiar with data visualizations but not deeply involved in mental health.
-3. **Adult, mid-40s**: A social worker actively supporting mental health programs in underserved communities.
-4. **Adult, mid-50s**: A retired teacher with an interest in public health and mental health issues.
+The interviews were structured around the following script:
+1. Regarding the narrative: "Does the overall story make sense to you? Is it easy to follow? What part of the story did you find most compelling?"
+2. Regarding the visualizations: "Are the visualizations clear and informative? What aspects of the visuals did you like or find confusing?"
+3. Regarding engagement: "Did the story hold your attention? What could make it more engaging for you?"
+4. Regarding actionable insights: "Does the data provide clear takeaways? Is there anything missing that you’d like to see?"
+
+Participants reviewed the project's wireframes, storyboards, and initial data visualizations during the interviews. Their feedback was documented for analysis.
 
 ---
 
-### **Interview Script**
-#### **General Narrative Understanding**
-1. Does the overall narrative make sense to you? Is it easy to follow?
-2. What part of the narrative do you find the most compelling?
+## Key Findings
 
-#### **Visualization Clarity**
-1. Are the visualizations clear and informative?
-2. What do you like/dislike about the visualizations?
+The feedback revealed several consistent themes across participants. The age-based bar chart was universally appreciated for its clarity and depth of information, though it was suggested that adding interactive elements like tooltips or filters could make it more engaging and easier to explore. Another common suggestion was to simplify overly detailed visuals to avoid overwhelming the audience.
 
-#### **User Engagement**
-1. Does the story keep your attention? Would you want to explore further?
-2. What changes would make it more engaging for you?
+Text content emerged as another area for improvement. Some sections felt too dense, with participants recommending shorter paragraphs or bullet points to improve readability. Additionally, participants emphasized the importance of linking recommendations directly to the data to enhance clarity and persuasiveness.
 
-#### **Actionable Insights**
-1. Does the data provide actionable insights?
-2. What additional information would you like to see?
+In terms of engagement, all participants found the narrative structure logical and compelling. However, there was a strong consensus that interactive elements and visual breaks could improve the overall experience.
+
+While most observations were consistent, there were some conflicting opinions. For example, the data analyst preferred a minimalist design style with fewer colors, while the social worker preferred bold, vivid colors to highlight disparities. Similarly, opinions on story structure varied. The student suggested beginning with the most striking insight—the high prevalence of depression among 18–25-year-olds—while the retired teacher advocated starting with a broader overview of depression trends before delving into specifics.
 
 ---
 
-## **Key Findings**
+## Key Quotes from Interviews
 
-### **Consistent Feedback**
-1. **Visualizations**:
-   - The age-based bar chart is highly informative but could benefit from interactivity (e.g., tooltips).
-   - Simplification of some visual elements would make the story less overwhelming.
-
-2. **Text Content**:
-   - Some sections are text-heavy. Breaking these into shorter paragraphs or bullet points would help.
-   - Users suggested aligning recommendations directly with the data insights for better clarity.
-
-3. **Engagement**:
-   - All participants appreciated the narrative flow but suggested adding interactive elements for better engagement.
+One participant, a psychology student, remarked, "Adding interactivity, like tooltips, would make this chart easier to explore and much more engaging." A retired teacher noted, "Start with an overview of depression trends, then move into the demographic disparities to set the stage better." The social worker commented, "The charts are impactful, but some of them feel a bit too busy. Simplifying them slightly could make the message clearer."
 
 ---
 
-### **Conflicting Observations**
-1. **Design Preferences**:
-   - The young professional preferred minimalist designs with fewer colors.
-   - The social worker liked bold, vivid colors to emphasize disparities.
+## Planned Design Changes
 
-2. **Order of Story**:
-   - The student recommended starting with the 18–25 age group data to grab attention.
-   - The retired teacher preferred a general introduction to depression before diving into specific insights.
+Based on this feedback, several updates are planned to improve the project's effectiveness and user experience.
 
----
+The visualizations will be enhanced by adding interactive features such as hover-over tooltips and filters to the age-based bar chart. To reduce complexity, some charts will group similar age ranges or use stacked bar formats. A consistent and balanced color palette will be applied to ensure the visuals are both impactful and accessible.
 
-## **Key Quotes**
-- **Student, mid-20s**: "Adding interactivity, like tooltips, would make this chart easier to explore."
-- **Adult, mid-50s**: "Start with an overview of depression trends, then move into the demographic disparities."
-- **Social Worker, mid-40s**: "The charts are impactful, but some of them are a little too busy. Simplify where possible."
+The narrative will be revised to start with the most compelling insight—the high prevalence of depression among the 18–25 age group. Text-heavy sections will be broken into smaller paragraphs or concise points to improve readability and flow.
+
+Recommendations will be directly tied to specific data points by adding annotations to the visualizations. For example, actionable solutions for young adults will be linked explicitly to the age-based prevalence chart.
+
+To boost engagement, the final story will include a call-to-action section encouraging readers to explore resources or share insights. Additionally, a timeline visualization will be added to provide historical context for the trends in depression rates.
 
 ---
 
-## **Planned Design Changes**
-Based on the feedback, the following changes will be implemented:
-1. **Improved Visualizations**:
-   - Add interactivity (hover-over tooltips, filters) to the age-based bar chart.
-   - Simplify complex charts by grouping similar age ranges or using stacked bars.
-   - Use a consistent, balanced color palette.
-
-2. **Refined Narrative**:
-   - Start with the most impactful insight (18–25 age group prevalence).
-   - Break text-heavy sections into concise bullet points or smaller paragraphs.
-
-3. **Enhanced Recommendations**:
-   - Add annotations to visualizations that tie data directly to actionable solutions.
-
-4. **Increased Engagement**:
-   - Include a call-to-action section encouraging readers to explore resources or share insights.
-   - Add a timeline visualization to provide historical context for depression trends.
-
----
-
-This user feedback and the planned changes will guide the next steps in refining the project.
+This user research has provided valuable insights into the strengths and areas for improvement in the project. By implementing the planned changes, the project will better meet the needs of its target audience and deliver a more engaging and impactful experience.
