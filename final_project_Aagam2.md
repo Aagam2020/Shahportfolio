@@ -50,3 +50,9 @@ The narrative will be revised to start with the most compelling insight—the hi
 Recommendations will be directly tied to specific data points by adding annotations to the visualizations. For example, actionable solutions for young adults will be linked explicitly to the age-based prevalence chart. Additionally, a timeline visualization will be added to provide historical context for the trends in depression rates.
 
 ---
+## Shorthand Story
+
+Explore the full interactive story on Shorthand:
+
+[Depression in the U.S.: A Silent Crisis Among Adults](https://preview.shorthand.com/m7wxw4Z64yxGOHTG/responsive/desktop)
+
