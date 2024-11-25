@@ -141,13 +141,13 @@ The above graph highlights the rising prevalence of depression among young adult
 
 ## Insights
 
-Significant Increase Over Time: Depression rates among young adults have increased sharply, with the steepest rise observed between 2018 and 2020. The data reveals a sustained upward trajectory, suggesting systemic issues exacerbating mental health struggles in this age group.
+**Significant Increase Over Time**: Depression rates among young adults have increased sharply, with the steepest rise observed between 2018 and 2020. The data reveals a sustained upward trajectory, suggesting systemic issues exacerbating mental health struggles in this age group.
 
-Vulnerability of Young Adults: The 18–25 age range often involves significant life changes, such as starting higher education, entering the workforce, and managing personal relationships. These challenges may heighten stress and anxiety, contributing to the increase in depression rates.
+**Vulnerability of Young Adults**: The 18–25 age range often involves significant life changes, such as starting higher education, entering the workforce, and managing personal relationships. These challenges may heighten stress and anxiety, contributing to the increase in depression rates.
 
-Influence of Social and Economic Pressures: Factors like social media pressures, comparison culture, and economic challenges, including student debt and job insecurity, play a pivotal role in the mental health struggles of this demographic.
+**Influence of Social and Economic Pressures**: Factors like social media pressures, comparison culture, and economic challenges, including student debt and job insecurity, play a pivotal role in the mental health struggles of this demographic.
 
-Potential Impact of COVID-19:Although the data stops at 2020, the pandemic likely exacerbated existing challenges for young adults, including isolation, financial stress, and disruption of life plans.
+**Potential Impact of COVID-19**: Although the data stops at 2020, the pandemic likely exacerbated existing challenges for young adults, including isolation, financial stress, and disruption of life plans.
 
 These findings align with research published by the National Center for Biotechnology Information (NCBI), which reported increases in depression among young adults from 10.3% (2015) to 17.2% (2020). For further details, you can refer to the NCBI report on depression trends.
 
