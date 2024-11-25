@@ -1,5 +1,5 @@
 [Back to Main Portfolio](README.md) | [To Part 1](final_project_Aagam.md)
-# Wireframe
+# Storyboard
 
 <div class='tableauPlaceholder' id='viz1732562491000' style='position: relative'>
   <noscript>
