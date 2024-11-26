@@ -86,7 +86,7 @@ Gender Disparities: Women are disproportionately affected by depression, with a 
 
 Racial/Ethnic Disparities: Individuals identifying as American Indian/Alaskan Native (11.2%) and those of two or more racial/ethnic backgrounds (13.9%) experienced higher rates of depression compared to other groups. Systemic barriers to mental health care, cultural stigmas, and economic challenges are key factors driving these disparities.
 
-Each of these trends is visualized in detail to provide a clearer picture of who is most affected by depression and why. For example, the bar chart below illustrates how the 18–25 age group accounts for 25% of all individuals experiencing major depressive episodes in 2021.
+Each of these trends is visualized in detail to provide a clearer picture of who is most affected by depression and why. For example, the pie chart above illustrates how the 18–25 age group accounts for 25% of all individuals experiencing major depressive episodes in 2021 while their population percentage is much lesser as compared to the other two.
 
 ## Actionable Recommendations
 
@@ -99,8 +99,6 @@ Gender-Sensitive Interventions: Develop outreach programs and therapy initiative
 Culturally Competent Care: Increase funding for mental health services in underserved communities, particularly those serving American Indian/Alaskan Native populations and individuals with mixed racial/ethnic identities. Train mental health professionals to provide culturally sensitive care to reduce barriers and stigmas.
 
 Public Awareness Campaigns: Promote mental health education to reduce stigma, encourage early intervention, and raise awareness about available resources.
-
-By focusing on these solutions, we can take meaningful steps toward reducing the burden of depression and ensuring that everyone has access to the care they need.
 
 <div class='tableauPlaceholder' id='viz1732564126222' style='position: relative'>
   <noscript>
@@ -180,8 +178,6 @@ Depression, though widespread across demographics, disproportionately impacts ce
 
 # User Research and Feedback
 
-User feedback summarizes the process and findings from user interviews conducted as part of the project. The goal of these interviews was to evaluate the clarity, engagement, and overall effectiveness of the project's narrative and visualizations. 
-
 ---
 
 ## User Research Protocol
@@ -214,7 +210,7 @@ While most observations were consistent, there were some conflicting opinions. F
 
 ## Key Quotes from Interviews
 
-One participant, the psychology student, remarked, "Adding interactivity, like tooltips, would make this chart easier to explore and much more engaging." A retired teacher noted, "Start with an overview of depression trends, then move into the demographic disparities to set the stage better." The social worker commented, "The charts are impactful, but some of them feel a bit too busy. Simplifying them slightly could make the message clearer."
+One participant, the psychology student, remarked, "Adding interactivity, like tooltips, would make this chart easier to explore and much more engaging." The retired teacher noted, "Start with an overview of depression trends, then move into the demographic disparities to set the stage better." The social worker commented, "The charts are impactful, and give well documented information which is helpful in understanding the story."
 
 ---
 
@@ -222,7 +218,7 @@ One participant, the psychology student, remarked, "Adding interactivity, like t
 
 Based on this feedback, several updates are planned to improve the project's effectiveness and user experience.
 
-The visualizations will be enhanced by adding interactive features such as hover-over tooltips and filters to the age-based pie chart which I would now visualize on Tableau instead of pen-paper. A consistent and balanced color palette will be applied to ensure the visuals are both impactful and accessible.
+The visualizations will be enhanced by adding interactive features such as hover-over tooltips and filters to the age-based pie chart which I would now visualize on Tableau instead of pen-paper.
 
 The narrative will be revised to start with the most compelling insight—the high prevalence of depression among the 18–25 age group. Text-heavy sections will be broken into smaller paragraphs or concise points to improve readability and flow.
 
