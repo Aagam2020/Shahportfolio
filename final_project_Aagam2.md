@@ -72,6 +72,8 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+The above chart can be found on the [SAHMSA Website](https://www.samhsa.gov/data/report/2021-nsduh-annual-national-report).
+
 # Introduction
 
 Depression has become one of the most pressing public health challenges in the United States, affecting millions of lives and disrupting communities. In 2021, nearly 18.6% of young adults aged 18–25 experienced major depressive episodes, a stark contrast to the 4.5% rate among older adults aged 50 and above. This alarming disparity highlights the urgent need to understand and address the unique factors contributing to depression in specific demographic groups. By analyzing depression prevalence across age, gender, and racial/ethnic lines, we can uncover key trends and pave the way for actionable solutions.
