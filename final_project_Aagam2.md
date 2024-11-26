@@ -153,7 +153,8 @@ These findings align with research published by the National Center for Biotechn
 
 ## Recommendations
 
-Expand Youth-Focused Mental Health Programs: On-Campus Support: Colleges and universities should enhance counseling services and provide mental health resources tailored to the needs of young adults. 
+
+**Expand Youth-Focused Mental Health Programs**: On-Campus Support: Colleges and universities should enhance counseling services and provide mental health resources tailored to the needs of young adults. 
 
 **Early-Career Interventions**: Employers hiring recent graduates should implement wellness programs addressing the specific challenges of early-career employees.
 
