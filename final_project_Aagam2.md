@@ -5,6 +5,19 @@ Explore the full interactive story on Shorthand:
 
 [Depression in the U.S.: A Silent Crisis Among Adults](https://preview.shorthand.com/m7wxw4Z64yxGOHTG/responsive/desktop)
 
+## Narrowing Down to Depression by Age Groups
+
+Depression, though widespread across demographics, disproportionately impacts certain age groups, particularly young adults aged 18–25. This focus on age is critical because it is during these formative years that individuals face unique challenges: transitioning into adulthood, pursuing higher education, beginning careers, and navigating complex social dynamics. The data shows that addressing depression early within this age group can lead to significant long-term benefits, irrespective of gender, race, or ethnicity.
+
+## Key Insights on Age-Specific Focus
+
+**Why Age Matters**: Young adulthood is a time of immense psychological vulnerability, with external pressures like social media, career uncertainty, and financial instability compounding the risk of mental health challenges. Depression left untreated during this stage can evolve into chronic mental health conditions, affecting long-term well-being, productivity, and quality of life.
+
+**Early Intervention and Its Impact**: Research and case studies highlight that early diagnosis and treatment of depression yield significantly better outcomes. When treated early, the recovery rate is higher, and the risk of relapse diminishes. The focus on treating depression at a young age ensures that individuals have the tools to manage stressors and build resilience, regardless of future challenges.
+
+I related to the age group of 18-25 year olds so that is why I decided to narrow it down to that particular age group.
+
+
 # User Research and Feedback
 
 ---
