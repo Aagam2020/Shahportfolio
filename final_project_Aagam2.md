@@ -149,7 +149,7 @@ The above graph highlights the rising prevalence of depression among young adult
 
 **Potential Impact of COVID-19**: Although the data stops at 2020, the pandemic likely exacerbated existing challenges for young adults, including isolation, financial stress, and disruption of life plans.
 
-These findings align with research published by the National Center for Biotechnology Information (NCBI), which reported increases in depression among young adults from 10.3% (2015) to 17.2% (2020). For further details, you can refer to the NCBI report on depression trends.
+These findings align with research published by the National Center for Biotechnology Information (NCBI), which reported increases in depression among young adults from 10.3% (2015) to 17.2% (2020). For further details, you can refer to the [NCBI report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483000/#:~:text=Increases%20in%20depression%20from%202015,%5BSE%3D0.52%5D%20and%202020) on depression trends.
 
 ## Recommendations
 
