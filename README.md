@@ -14,7 +14,7 @@ In this course, Telling Stories with Data, I'm excited to dive into the art of d
 
 ## Assignment: [Visualizing Government Debt](dataviz2.md)
 
-## [Assignment 3&4] (makeover_monday.md)
+## Assignment 3&4: [Makeover_Monday](makeover_monday.md)
 
 ## Final project
 [Part I](final_project_Aagam.md)
