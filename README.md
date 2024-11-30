@@ -1,4 +1,4 @@
-[Home Page](https://aagam2020.github.io/Shahportfolio/) | [Critique by design](critique-by-design) | [Assignment 2](dataviz2.md) | [Makeover monday](makeover_monday.md)  | [Final Project Part 1](final_project_Aagam.md) | [Final Project Part 2](final_project_Aagam2.md)
+[Home Page](https://aagam2020.github.io/Shahportfolio/) | [Assignment 2](dataviz2.md) | [Makeover monday](makeover_monday.md)  | [Final Project Part 1](final_project_Aagam.md) | [Final Project Part 2](final_project_Aagam2.md)
 # Shahportfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
@@ -12,11 +12,10 @@ In this course, Telling Stories with Data, I'm excited to dive into the art of d
 
 # Portfolio
 
-
-## [Assignment 2](dataviz2.md)
-
-## Assignment: [Visualizing Government Debt](makeover_monday.md)
+## Assignment: [Visualizing Government Debt](dataviz2.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+
+## Assignment 3&4 (makeover_monday.md)
 
 ## Final project
 [Part I](final_project_Aagam.md)
