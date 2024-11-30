@@ -1,4 +1,4 @@
-[Back to Main Portfolio](README.md)
+[Back to Main Portfolio](README.md) | [To Part 2](final_project_Aagam2.md) | [To Part 3](final_project_Aagam3.md)
 
 # Final Project: Depression Prevalence Among U.S. Adults (2021)
 
