@@ -11,22 +11,18 @@ Beyond academics, I’m passionate about sports and understanding human psycholo
 In this course, Telling Stories with Data, I'm excited to dive into the art of data visualization and develop a skill set that combines narrative techniques with technical expertise in data storytelling. With data becoming a cornerstone of policy-making and strategic decisions, I look forward to honing my ability to convey complex information in an engaging and insightful way. I’m particularly interested in exploring how data visualization can be tailored for different audiences, using design elements that not only inform but also resonate with viewers. This aligns closely with my career goals, as I aim to apply these skills in product management, leveraging data to drive better decision-making and ultimately create a positive user experience.
 
 # Portfolio
-## Data Visulaization #1
 
-## Critique by Design
 
-## Choosing chart types
+## Assignment 2
+[Assignment 2](dataviz2.md)
 
-## Practising persuasion
-
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](makeover_monday.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
 [Part I](final_project_Aagam.md)
 [Part II](final_project_Aagam2.md)
 
