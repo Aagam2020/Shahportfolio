@@ -1,4 +1,4 @@
-[Back to Main Portfolio](README.md) | [To Part 1](final_project_Aagam.md)
+[Back to Main Portfolio](README.md) | [To Part 1](final_project_Aagam.md) | [To Part 3](final_project_Aagam3.md)
 # Storyboard
 
 Explore the full interactive story on Shorthand:
