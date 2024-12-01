@@ -20,20 +20,20 @@ The relevance lies in equipping students with tools and resources to tackle depr
 ## **Adjustments Based on Feedback**
 Based on feedback from my professor, peers, and the interviews I took, the following changes were made:
 1. **Audience Narrowing**:
-   - The focus shifted exclusively to students, which required refining the narrative to address this demographic more effectively.
-   - Recommendations now prioritize on-campus solutions and digital mental health platforms tailored to students.
+   The focus shifted exclusively to students, which required refining the narrative to address this demographic more effectively.
+   Recommendations now prioritize on-campus solutions and digital mental health platforms tailored to students.
 
 2. **Narrative Refinement**:
-   - I updated the introduction to highlight challenges students face, such as academic stress and social pressures.
-   - The narrative structure was reworked to start with compelling insights about the 18–25 age group to immediately capture the attention of the student audience.
+   I updated the introduction to highlight challenges students face, such as academic stress and social pressures.
+   The narrative structure was reworked to start with compelling insights about the 18–25 age group to immediately capture the attention of the student audience.
 
 3. **Visualization Enhancements**:
-   - Simplified data visualizations to make them more engaging and accessible to students.
-   - Added annotations and callouts in the visualizations to directly tie insights to actionable recommendations.
+   Simplified data visualizations to make them more engaging and accessible to students.
+   Added annotations and callouts in the visualizations to directly tie insights to actionable recommendations.
 
 4. **Engagement Improvements**:
-   - Text-heavy sections were broken down into bullet points or concise paragraphs for easier readability.
-   - Interactive elements (e.g., tooltips, filters) were incorporated to enhance engagement with data visualizations.
+   Text-heavy sections were broken down into bullet points or concise paragraphs for easier readability.
+   Interactive elements (e.g., tooltips, filters) were incorporated to enhance engagement with data visualizations.
 
 I implemented these changes to ensure the final deliverable resonates deeply with the student audience, providing actionable, relatable, and impactful content.
 
