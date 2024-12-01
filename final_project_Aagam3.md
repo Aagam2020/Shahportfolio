@@ -48,15 +48,18 @@ I implemented these changes to ensure the final deliverable resonates deeply wit
    Initially, the project aimed to address multiple demographics, but after discussions with the professor and feedback from students during the In class critique and my interviewees, I narrowed the focus to students aged 18–25. This allowed the narrative to become more relatable and impactful for the intended audience.
 
 2. **Data Visualization Refinement**:
+   
    **Bar Chart**: 
      Provides a clear comparison of depression rates by age, race, and sex. It visually emphasizes the disparities, such as the significant impact on females and 
      the higher prevalence among individuals identifying as AI/AN and multiracial.
+   
    **Pie Chart**:
      Simplifies the distribution of depression percentages across age groups, making it easy to see the disproportionate burden on young adults.
+   
    **Line Chart**:
      Demonstrates the increase in depression rates for the 18–25 age group over time, highlighting a 67% rise between 2015 and 2020.
 
-3. **Simplified Visuals**:
+4. **Simplified Visuals**:
    Based on feedback, I improved readability by using consistent colors, larger fonts, and simplified legends. These changes make the visualizations more accessible while ensuring key messages are not lost.
 
 This project has been a journey of iterative improvement, shaped by feedback and guided by the goal of creating a relatable, student-centered narrative.
