@@ -43,5 +43,10 @@ Based on feedback from the professor, peers, and the interviews I took, the foll
 I implemented these changes to ensure the final deliverable resonates deeply with the student audience, providing actionable, relatable, and impactful content.
 
 ## References
+1) National Institute of Mental Health. (n.d.). Major Depression. Retrieved from https://www.nimh.nih.gov/health/statistics/major-depression
+ 
+2) Twenge, J. M., Cooper, A. B., Joiner, T. E., Duffy, M. E., & Binau, S. G. (2022). Age, period, and cohort trends in mood disorder indicators among U.S. adolescents and adults, 2005–2017. National Center for Biotechnology Information. Retrieved from https://pmc.ncbi.nlm.nih.gov/articles/PMC9483000/
+Centers for Disease Control and Prevention. (2023).
 
+3) Suicide and depression among adults and youth in the United States, 2023. MMWR Weekly, 72(24). Retrieved from https://www.cdc.gov/mmwr/volumes/72/wr/mm7224a1.htm
 
