@@ -18,7 +18,6 @@ The relevance lies in equipping students with tools and resources to tackle depr
 ---
 
 ## Why It Matters
-
 This project is deeply personal to me because I see these struggles in myself and my peers. I want this story to inspire conversations about mental health, reduce stigma, and show students that help is available. Together, we can make mental health a priority and create environments where we can thrive, emotionally and academically.
 
 ---
@@ -42,5 +41,7 @@ Based on feedback from the professor, peers, and the interviews I took, the foll
    Interactive elements (e.g., tooltips, filters) were incorporated to enhance engagement with data visualizations.
 
 I implemented these changes to ensure the final deliverable resonates deeply with the student audience, providing actionable, relatable, and impactful content.
+
+## References
 
 
