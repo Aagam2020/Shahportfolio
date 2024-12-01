@@ -17,6 +17,12 @@ The relevance lies in equipping students with tools and resources to tackle depr
 
 ---
 
+## Why It Matters
+
+This project is deeply personal to me because I see these struggles in myself and my peers. I want this story to inspire conversations about mental health, reduce stigma, and show students that help is available. Together, we can make mental health a priority and create environments where we can thrive, emotionally and academically.
+
+---
+
 ## **Adjustments Based on Feedback**
 Based on feedback from my professor, peers, and the interviews I took, the following changes were made:
 1. **Audience Narrowing**:
