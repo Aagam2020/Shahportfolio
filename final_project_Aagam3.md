@@ -24,7 +24,7 @@ This project is deeply personal to me because I see these struggles in myself an
 ---
 
 ## **Adjustments Based on Feedback**
-Based on feedback from my professor, peers, and the interviews I took, the following changes were made:
+Based on feedback from the professor, peers, and the interviews I took, the following changes were made:
 1. **Audience Narrowing**:
    The focus shifted exclusively to students, which required refining the narrative to address this demographic more effectively.
    Recommendations now prioritize on-campus solutions and digital mental health platforms tailored to students.
