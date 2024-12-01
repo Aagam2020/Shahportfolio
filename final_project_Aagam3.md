@@ -1,6 +1,6 @@
 [Back to Main Portfolio](README.md) | [To Part 1](final_project_Aagam.md) | [To Part 2](final_project_Aagam2.md)
 
-# Depression in the U.S.: A Silent Crisis Among Students
+# Depression in the U.S. : A Silent Crisis Among Students
 
 ## **Introduction**
 My project aims to analyze the prevalence of major depressive episodes among U.S. young adults, with a specific focus on students. I have identified trends and disparities in mental health based on age, gender, and race/ethnicity. By focusing on actionable solutions tailored to students, it provides a roadmap for addressing mental health challenges at their roots.
