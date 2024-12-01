@@ -65,9 +65,6 @@ Through this project, I’ve learned the value of understanding the audience, in
 
 ---
 
-*Note: Replace `path_to_image1.png`, `path_to_image2.png`, and `path_to_image3.png` with the actual paths to your image files in the GitHub repository.*
-
-
 ## References
 1) National Institute of Mental Health. (n.d.). Major Depression. Retrieved from https://www.nimh.nih.gov/health/statistics/major-depression
  
