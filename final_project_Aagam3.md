@@ -68,6 +68,12 @@ Through this project, I’ve learned the value of understanding the audience, in
 
 ---
 
+# Storyboard
+
+Explore the full interactive story on Shorthand:
+
+[Depression in the U.S.: A Silent Crisis Among Adults](https://preview.shorthand.com/m7wxw4Z64yxGOHTG/responsive/desktop)
+
 ## References
 1) National Institute of Mental Health. (n.d.). Major Depression. Retrieved from https://www.nimh.nih.gov/health/statistics/major-depression
  
