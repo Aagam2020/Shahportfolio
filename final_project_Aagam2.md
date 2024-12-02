@@ -3,7 +3,7 @@
 
 Explore the full interactive story on Shorthand:
 
-[Depression in the U.S.: A Silent Crisis Among Adults](https://preview.shorthand.com/m7wxw4Z64yxGOHTG/responsive/desktop)
+[Depression in the U.S.: A Silent Crisis Among Adults](https://carnegiemellon.shorthandstories.com/depression-in-the-us-a-silent-crisis-among-adults/index.html)
 
 ## Narrowing Down to Depression by Age Groups
 
