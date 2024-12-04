@@ -3,7 +3,7 @@
 # Depression in the U.S. : A Silent Crisis Among Students
 
 ## **Introduction**
-My project aims to analyze the prevalence of major depressive episodes among U.S. young adults, with a specific focus on students. I have identified trends and disparities in mental health based on age, gender, and race/ethnicity. By focusing on actionable solutions tailored to students, it provides a roadmap for addressing mental health challenges at their roots.
+My project aims to analyze the prevalence of major depressive episodes among U.S. young adults, with a specific focus on students. I have identified trends and disparities in mental health based on age, gender, and race/ethnicity. It will then narrow down to addressing the issues of depression faced by young adults in the age range of 18-25. My target audience are students, student leaders and educational institutions. By focusing on actionable solutions tailored to students, it provides a roadmap for addressing mental health challenges at their roots.
 
 ---
 
